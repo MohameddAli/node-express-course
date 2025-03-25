@@ -1,0 +1,24 @@
+{
+  "name": "tmplrdepjo2_run_mohameddali_node-express-course_issue_1_885b1f6c",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://x-access-token:ghs_AhrGukts1UpjbHnl6pWzmK01thEyTA1hC2eB@github.com/MohameddAli/node-express-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohameddAli/node-express-course/issues"
+  },
+  "homepage": "https://github.com/MohameddAli/node-express-course#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
